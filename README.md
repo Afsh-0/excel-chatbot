@@ -159,6 +159,8 @@ llama3.2
 streamlit run app_chatbot.py
 ```
 
+Link: https://excel-chatbot-hijelna7hhrrs3uvyc7hpa.streamlit.app/
+
 The chatbot will open in the browser.
 
 
