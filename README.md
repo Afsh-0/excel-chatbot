@@ -77,7 +77,7 @@ Answer
 ```
 
 
-## 💬 Example Questions
+## Example Questions
 
 The chatbot can answer questions such as:
 
@@ -167,5 +167,3 @@ The chatbot will open in the browser.
 The main goal of this project is to create an AI assistant that makes Excel data easier to understand.
 
 The user should be able to ask a question in normal language instead of manually searching through rows, applying filters, and performing calculations in Excel.
-
-
